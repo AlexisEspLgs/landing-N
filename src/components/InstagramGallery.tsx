@@ -1,4 +1,4 @@
-import { Instagram, Heart, MessageCircle, Share2 } from 'lucide-react';
+import { Heart, MessageCircle, Share2 } from 'lucide-react';
 
 const instagramPosts = [
   { id: 1, imageUrl: '/jeane_portada.jpg', link: 'https://www.instagram.com/unnienutri_salud/' },

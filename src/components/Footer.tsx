@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { FacebookIcon, InstagramIcon, TwitterIcon } from 'lucide-react';
 
 interface FooterProps {

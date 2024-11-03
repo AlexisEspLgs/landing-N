@@ -7,7 +7,7 @@ interface HeaderProps {
   readonly setDarkMode?: (mode: boolean) => void; // Opcional si no se usa
 }
 
-export default function Header({ darkMode, setDarkMode }: HeaderProps) {
+export default function Header({ darkMode }: HeaderProps) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
 
